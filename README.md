@@ -1,4 +1,4 @@
-# sforce-jdbc [![Build Status](https://api.travis-ci.org/ascendix/salesforce-jdbc.svg?branch=master)](https://travis-ci.org/ascendix/salesforce-jdbc) [![Build Status](https://sonarcloud.io/api/project_badges/measure?project=com.ascendix.salesforce%3Asalesforce-jdbc&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.ascendix.salesforce%3Asalesforce-jdbc)
+#
 Salesforce JDBC driver allows Java programs to connect to Salesforce data services using standard, database independent Java code. It is an open source JDBC driver written in Pure Java, and communicates over SOAP/HTTP(S) protocol.
 
 The main purpose of the driver is to retrieve (only) data from Salesforce services for data analysis. Primary target platform for the driver usage is Eclipse BIRT engine.
@@ -6,8 +6,7 @@ The main purpose of the driver is to retrieve (only) data from Salesforce servic
 ## Supported Salesforce and Java versions
 The current version of the driver should be compatible with **Salesforce Partner API version 39.0 and higher** and **Java 8**.
 
-## Get the driver
-Download the driver [here](https://github.com/ascendix/mvnrepo/raw/master/com/ascendix/salesforce/salesforce-jdbc/1.1-SNAPSHOT/salesforce-jdbc-1.1-20180403.104727-1-single.jar)
+
 
 
 ## With Maven
@@ -100,8 +99,7 @@ jdbc:ascendix:salesforce://;sessionId=uniqueIdAssociatedWithTheSession
   
 
 
-### Sponsors
-[Ascendix Technologies Inc.](https://ascendix.com/) <img src="http://ww1.prweb.com/prfiles/2006/12/12/490667/ascendixlogo.jpg" width=100 align="right"/>
+
 
 
 
